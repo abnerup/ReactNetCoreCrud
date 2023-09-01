@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qcRHRYRtoCMsUR57avQkHTXvKx/3X/9QoZoRKor88u4=",
+  "Source": "aspnetcore.crud.api",
+  "BasePath": "_content/aspnetcore.crud.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
